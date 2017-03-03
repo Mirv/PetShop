@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails project - an online store created with Pets in mind, but designed to be easily adaptable for any other business. This project relies on many fantastic Gems, such as for example:
 
-Things you may want to cover:
+* Devise
 
-* Ruby version
+* Bootstrap-sass
 
-* System dependencies
+* Active Admin
 
-* Configuration
+* Stripe-ruby
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+and many others...
